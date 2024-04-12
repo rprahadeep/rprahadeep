@@ -1,4 +1,4 @@
-# 💫 About Me: ** A Passionate MERN stack developer and Machine Learning Engineer **
+# 💫 About Me: A Passionate MERN stack developer and Machine Learning Engineer
 🌱 I’m currently learning **AWS Devops**<br>📫 How to reach me **rprahadeep@gmail.com**<br>⚡ Fun fact **I love Motorsports!**
 
 
