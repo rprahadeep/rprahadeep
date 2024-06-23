@@ -1,4 +1,4 @@
-# 💫 About Me: A Proficient React Web and Application Developer
+# 💫 About Me: A Proficient React Web/Mobile Application Developer
 🌱 I’m currently learning **AWS Cloud**<br>📫 How to reach me **rprahadeep@gmail.com**<br>⚡ Fun fact **I love Motorsports!**
 
 
