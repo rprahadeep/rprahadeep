@@ -1,5 +1,5 @@
 **Full Stack Developer & Machine Learning Engineer**<br>
-📫 How to reach me **rprahadeep@gmail.com**<br>
+<br>How to reach me **rprahadeep@gmail.com**<br>
 
 
 ## 🌐 Socials:
