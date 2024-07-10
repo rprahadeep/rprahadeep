@@ -1,5 +1,5 @@
-# 💫 About Me: A Proficient React Developer & Machine Learning Engineer
-🌱 I’m currently learning **AWS Cloud Applications**<br>📫 How to reach me **rprahadeep@gmail.com**<br>⚡ Fun fact **I love Motorsports!**
+**Full Stack Developer & Machine Learning Engineer**<br>
+📫 How to reach me **rprahadeep@gmail.com**<br>
 
 
 ## 🌐 Socials:
