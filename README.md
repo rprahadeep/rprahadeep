@@ -1,3 +1,7 @@
+<h1 style="text-align:centre">Prahadeep R</h1>
+
+<hr>
+
 **Full Stack Developer & Machine Learning Engineer**<br>
 <br>How to reach me **rprahadeep@gmail.com**<br>
 
