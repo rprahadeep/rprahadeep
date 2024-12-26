@@ -1,4 +1,5 @@
-<h1>Prahadeep R</h1>
+<h1 style="text-align:center;">Prahadeep R</h1>
+
 
 <hr>
 
