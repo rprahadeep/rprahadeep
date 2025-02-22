@@ -3,8 +3,8 @@
 
 <hr>
 
-**Full Stack Developer & Machine Learning Engineer**<br>
-<br>How to reach me **rprahadeep@gmail.com**<br>
+<h3>Full Stack Developer & Machine Learning Engineer</h3>
+<h5>How to reach me: rprahadeep@gmail.com</h5>
 
 
 **Tech Stack:[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,js,ts,aws,spring,react,redux,nextjs,nodejs,express,mongodb,postgres,redis,docker,kubernetes,tensorflow)](https://skillicons.dev)**<br>
