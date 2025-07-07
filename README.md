@@ -1,6 +1,6 @@
 # Prahadeep R
 
-#### 🚀 Full Stack Developer & Machine Learning Engineer  
+### Full Stack Developer & Machine Learning Engineer  
 I'm passionate about building scalable web apps, solving real-world problems with AI, and creating efficient backend systems. I combine strong software engineering skills with a deep interest in research-driven development.
 
 ---
