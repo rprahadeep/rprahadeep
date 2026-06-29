@@ -2,9 +2,9 @@
 name: Prahadeep
 
 focus:
-  - agents
-  - infrastructure
-  - automation
+  - agents that think
+  - systems that scale
+  - code that ships
 
-state: learning
+state: learning → building → shipping
 ```
